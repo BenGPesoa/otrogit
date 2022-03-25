@@ -1,0 +1,9 @@
+Lista de archivos:
+
+casa.jpg
+dipper.jpg
+flor.jpg
+mabel.png
+.gitignore
+
+
